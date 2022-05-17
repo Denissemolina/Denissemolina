@@ -7,11 +7,11 @@ I am a front end developer graduated from **Laboratoria**, since i discovered th
 
 Skills: **REACT / JS / HTML / CSS**
 
-- 🔭 I’m currently working on React. 
-- 💬 Ask me about Anything, i am happy to help. 
+- 🔭 I’m currently working: on React. 
+- 💬 Ask me about: anything, i am happy to help. 
 - 📫 How to reach me: dmolinaruelas@gmail.com 
-- 😄 Pronouns: She / her. 
-- ⚡ Fun fact: I love Hello kitty. 
+- 😄 Pronouns: she / her. 
+- ⚡ Fun fact: i love Hello kitty. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Denissemolina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denisse-molina/)  
