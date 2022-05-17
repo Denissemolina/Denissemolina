@@ -1,5 +1,4 @@
-### Hey there! 🙋‍
-#### I am Denisse 
+### Hey there! 🙋‍ I am Denisse, 
 ![I am Denisse ](https://studio.uxpincdn.com/studio/wp-content/uploads/2020/12/7-Best-Reasons-To-Use-React.js-Components-In-Your-Project-1024x512.png.webp)
 
 I am a front end developer graduated from **Laboratoria**, since i discovered the field of programming, am obssesed with how it allows transforming ideas into solutions.
