@@ -1,7 +1,6 @@
 ### <h1 align="center">Hey there! 🙋‍ I am Denisse, </h1>
-![I am Denisse ](https://studio.uxpincdn.com/studio/wp-content/uploads/2020/12/7-Best-Reasons-To-Use-React.js-Components-In-Your-Project-1024x512.png.webp)
 
-<h2>I am a front end developer graduated from Laboratoria, since I discovered the field of programming, am obssesed with how it allows transforming ideas into solutions.</h2>
+<h2>I'm a Front End Developer graduated from Laboratoria, and I'm loved transforming ideas into solutions.</h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,11 +8,11 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Denissemolina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denisse-molina/)  
 
-- 🔭 I’m currently working: On React. 
-- 💬 Ask me about: Anything, I am happy to help. 
+- 🔭 I’m currently working: With Angular. 
+- 💬 Ask me about: Anything, I'm happy to help you. 
 - 📫 How to reach me: dmolinaruelas@gmail.com 
 - 😄 Pronouns: She/her. 
-- ⚡ Fun fact: I love Hello kitty. 
+- ⚡ Fun fact: I think I have a close resemblance to Illumi Zoldyck. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Denissemolina&show_icons=true)  
 
